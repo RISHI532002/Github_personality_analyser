@@ -1,6 +1,11 @@
 # github-personality-analyser
 
-> Analyse any GitHub user's developer personality using their public activity and AI (Groq + LLaMA 3.3).
+> Analyse any GitHub user's developer personality using their public activity and AI (Groq).
+
+Ever wondered what your GitHub profile says about you as a developer?
+This library digs into any public GitHub account — commits, languages, activity patterns, README quality, and more — and generates a fun, surprisingly accurate developer personality profile powered by LLaMA 3.3 running on Groq.
+
+Find out if you're **The Silent Builder**, **The Midnight Hacker**, **The Open Source Evangelist**, or something else entirely. Great for portfolio pages, developer tools, or just satisfying your curiosity.
 
 ## Install
 
